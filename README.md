@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilaria</h1>
- #####  🌱 Still learning
+<h3>  🌱 Still learning </h3>
 
 
 
